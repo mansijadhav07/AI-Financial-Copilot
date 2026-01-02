@@ -43,6 +43,7 @@ The backend follows a modular, layered architecture:
 
 ## 📁 Folder Structure
 
+```text
 backend/
 ├── app/
 │ ├── api/ # API routes
