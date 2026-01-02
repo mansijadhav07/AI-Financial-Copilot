@@ -17,8 +17,8 @@ Detailed diagrams and design documents are available in the `/docs` folder.
 
 ### Available Diagrams
 - 🏗️ **System Architecture**  
-  👉 [View System Architecture Diagram](./docs/system-architecture.md)
+  👉 [View System Architecture Diagram](./system-architecture.md)
 
 - 🔁 **Execution Flowchart**  
-  👉 [View Execution Flowchart](./docs/flowchart.md)
+  👉 [View Execution Flowchart](./flowchart.md)
 
